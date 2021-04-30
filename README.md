@@ -24,6 +24,9 @@ Path
 8. En la ruta: /prueba_falabella/src/test/resources/driver actualizar los controladores web.
 	--> chromedriver.exe Utilizar el que sea compatible con el navegador GOOGLE CHROME
 	--> geckodriver.exe Utilizar el que sea compatible con el navegador FIREFOX
+	
+9. En el IDE, Abrir el archivo RunnerTags.java que está en la ruta /prueba_falabella/src/test/java/prueba/falabella/RunnerTags.java
+10. Ejecutar cómo --> "1JUnit Test"
 
 
 #Ejecutar en un navegador diferente a chrome
