@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Title of your feature" skipped="0" tests="1" time="0.76" timestamp="2021-04-28T22:13:24.144-05:00[America/Bogota]"><testcase name="Comparacion agrega productos celular a canasta"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+prueba.falabella.definition.PaginaFalabellaDefinition.ingreso_a_la_pagina_falabella_mediante_google(PaginaFalabellaDefinition.java:15)&#13;
+✽.Given Ingreso a la pagina falabella mediante google(src/test/resources/features/falabellaCom.feature:9)&#13;
+</system-err></testcase></testsuite>
